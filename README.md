@@ -6,4 +6,8 @@
 3. File -> Open Library From -> URL
 
 ## Organisation Construction Diagram (OCD)
-![Alt](/Organisation%20Construction%20Diagram/OrganisationConstructionDiagram.png)
+![OCD palette](/Organisation%20Construction%20Diagram/OrganisationConstructionDiagram.png)
+
+## Transaction Pattern
+![Transaction Pattern palette](/Transaction%20Pattern/TransactionPattern.png)
+
