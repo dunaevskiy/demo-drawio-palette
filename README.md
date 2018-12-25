@@ -11,3 +11,5 @@
 ## Transaction Pattern
 ![Transaction Pattern palette](/Transaction%20Pattern/TransactionPattern.png)
 
+## Process Structures Diagram
+![Process Structures Diagram](/Process%20Structure%20Diagram/ProcessStructureDiagram.png)
